@@ -6,7 +6,7 @@ function Imgbw= binarize_Img(Img,se_background)
 % output
 %	inverted binary image of estimated foreground (script)
 
-% Copyright © 2018 Daniel Stökl Ben Ezra, EPHE, PSL, ALMAnaCH, ULR 8167 Orient et Méditerranée in Paris
+% Copyright © 2018 Daniel Stökl Ben Ezra, EPHE, PSL, ALMAnaCH, UMR 8167 Orient et Méditerranée in Paris
 % daniel.stoekl@ephe.sorbonne.fr, daniel.stoekl@ephe.psl.eu
 
 %    This program is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License Version 3 as published by the Free Software Foundation.

@@ -4,7 +4,7 @@ This simple matlab function binarizes color or grayscale images and is particula
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Install files in active matlab folder and call with a greycale or color image and a structural element. There are two versions, with or without an additional threshold. 
 
 ### Prerequisites
 
@@ -12,10 +12,10 @@ You will need matlab and the computer vision toolbox installed on your machine.
 
 ## Author
 
-* **Daniel Stökl Ben Ezra
+* Daniel Stökl Ben Ezra. 2018. 
 research professor for Hebrew and Aramaic at the EPHE, PSL.
-member of ALMAnaCH (EPHE-INRIA).
-member of UMR 8167 Orient et Méditerranée in Paris. 
+member of ALMAnaCH (EPHE-INRIA). [https://team.inria.fr/almanach/fr/]
+member of UMR 8167 Orient et Méditerranée in Paris. [https://www.orient-mediterranee.com/?lang=fr]
 daniel.stoekl@ephe.sorbonne.fr, daniel.stoekl@ephe.psl.eu
 
 

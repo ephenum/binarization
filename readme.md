@@ -15,8 +15,8 @@ You will need matlab and the computer vision toolbox installed on your machine.
 * Daniel Stökl Ben Ezra. 2018. 
 research professor for Hebrew and Aramaic at the EPHE, PSL in Paris.
 director of the digital humanities programme of the EPHE.
-member of [ALMAnaCH EPHE-INRIA]. (https://team.inria.fr/almanach/fr/)
-member of [UMR 8167 Orient et Méditerranée]. (https://www.orient-mediterranee.com/?lang=fr)
+member of [ALMAnaCH EPHE-INRIA](https://team.inria.fr/almanach/fr/).
+member of [UMR 8167 Orient et Méditerranée](https://www.orient-mediterranee.com/?lang=fr).
 daniel.stoekl@ephe.sorbonne.fr, daniel.stoekl@ephe.psl.eu
 
 

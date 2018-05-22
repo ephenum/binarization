@@ -1,13 +1,20 @@
 function Imgbw= binarize_Img(Img,se_background)
-% this simple function binarizes color or grayscale images and is particularly suited for manuscript images
+% this simple matlab function binarizes color or grayscale images and is particularly suited for manuscript images
 % input 
 %   Img:color or grayscale image
 % 	se_background: structuring element, e.g. strel('disk',50) depending on image resolution, script, etc
 % output
 %	inverted binary image of estimated foreground (script)
 
-% Daniel Stökl Ben Ezra, EPHE, PSL, ALMAnaCH, ULR 8167 Orient et Méditerranée in Paris
+% Copyright © 2018 Daniel Stökl Ben Ezra, EPHE, PSL, ALMAnaCH, ULR 8167 Orient et Méditerranée in Paris
 % daniel.stoekl@ephe.sorbonne.fr, daniel.stoekl@ephe.psl.eu
+
+%    This program is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License Version 3 as published by the Free Software Foundation.
+
+%    This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+%    You should have received a copy of the GNU Lesser General Public License along with this program.  If not, see <https://www.gnu.org/licenses/lgpl-3.0.en.html>.
+
 
 % transform color to grayscale image. 
 % if you want to use a specific channel only just submit that channel as Img
